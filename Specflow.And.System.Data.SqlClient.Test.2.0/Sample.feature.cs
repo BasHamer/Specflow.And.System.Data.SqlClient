@@ -70,11 +70,11 @@ namespace Specflow.And.SystemDataSqlClient.Test
             testRunner.CollectScenarioErrors();
         }
         
-        [TechTalk.SpecRun.ScenarioAttribute("DB", SourceLine=2)]
-        public virtual void DB()
+        [TechTalk.SpecRun.ScenarioAttribute("Specrun.Specflow.And.System.Data.SqlClient.Test.2.0", SourceLine=2)]
+        public virtual void Specrun_Specflow_And_System_Data_SqlClient_Test_2_0()
         {
             string[] tagsOfScenario = ((string[])(null));
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("DB", null, ((string[])(null)));
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Specrun.Specflow.And.System.Data.SqlClient.Test.2.0", null, ((string[])(null)));
 #line 3
 this.ScenarioInitialize(scenarioInfo);
 #line hidden

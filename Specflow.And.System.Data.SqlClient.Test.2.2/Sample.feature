@@ -1,4 +1,4 @@
 ﻿Feature: Test
 
-Scenario: DB
+Scenario: Specrun.Specflow.And.System.Data.SqlClient.Test.2.2
 Given bob
